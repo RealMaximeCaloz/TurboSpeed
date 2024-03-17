@@ -6,14 +6,17 @@ TurboSpeed is an engaging and addictive arcade-style infinite scrolling racing g
 In TurboSpeed, the player controls a car speeding down a dynamically-scrolling road, with the objective of avoiding boulders for as long as possible. As time goes on, the car moves faster and faster, thus increasing the difficulty.
 
 Down below, you can see a screenshot of the gameplay.
-![gameplay](https://github.com/RealMaximeCaloz/TurboSpeed/Game Screenshots/gameplay.png)
+
+![gameplay](https://github.com/RealMaximeCaloz/TurboSpeed/blob/master/Game%20Screenshots/gameplay.png)
 
 
 Here is a screenshot of the TurboSpeed title screen.
-![title screen](https://github.com/RealMaximeCaloz/TurboSpeed/Game Screenshots/title_screen.png)
+
+![title screen](https://github.com/RealMaximeCaloz/TurboSpeed/blob/master/Game%20Screenshots/title_screen.png)
 
 Down below, you can find a screenshot of the TurboSpeed game over screen (and my high score!).
-![game over screen](https://github.com/RealMaximeCaloz/TurboSpeed/Game Screenshots/game_over_screen.png)
+
+![game over screen](https://github.com/RealMaximeCaloz/TurboSpeed/blob/master/Game%20Screenshots/game_over_screen.png)
 
 # Installation
 1. Clone this repository:
